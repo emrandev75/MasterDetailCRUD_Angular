@@ -1,0 +1,4 @@
+Add-Migration ScriptC -context CandidateDbContext
+Add-Migration ScriptD -context AppDbContext
+update-database -context CandidateDbContext
+update-database -context AppDbContext

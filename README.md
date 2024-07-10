@@ -1,1 +1,1 @@
-# MasterDetailCRUD_Angular
+# Angular_Project
